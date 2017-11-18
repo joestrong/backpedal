@@ -1,0 +1,13 @@
+.MenuLinks ul {
+    margin: 0;
+    padding: 0;
+}
+.MenuLinks ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.MenuLinks a {
+    display: block;
+    padding: 10px;
+}
